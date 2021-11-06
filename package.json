@@ -1,0 +1,7 @@
+{
+  "name": "@cprize/typescript-config",
+  "version": "1.0.0",
+  "main": "tsconfig.json",
+  "author": "加把劲骑士 <869288142@qq.com>",
+  "license": "MIT"
+}
